@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Blake 👋
 
-<!--
-**blakesys873/blakesys873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer based in SF. Daytime at **Creative Lab**, nighttime building small single-purpose tools and breaking web APIs.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- 🛠️ Building lightweight developer utilities and web apps
+- 📦 Tinkering with local-first setups and embedded SQLite
+- 📚 Digging deeper into performant Node runtime internals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Everyday Stack
+- **Languages & Runtime:** TypeScript, JavaScript, Node.js
+- **Frontend:** React, Tailwind CSS, Vite
+- **Backend & Storage:** Express, SQLite, REST APIs
+
+#### Connect
+- Drop an email: `blake.sys873@gmail.com`
+- Open an issue or ping me on PRs if you want to collaborate on small open-source utilities.
